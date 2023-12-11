@@ -9,6 +9,7 @@ ENV PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 ENV NGINX_VERSION=1.25.1
 ENV PKG_RELEASE=1
 ENV NJS_VERSION=0.7.12
+ENV REACT_APP_API_URL="https://pssnational.intellisoftkenya.com"
 
 # Expose the port
 EXPOSE 3000
